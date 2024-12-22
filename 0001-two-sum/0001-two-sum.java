@@ -1,23 +1,25 @@
+import java.util.HashMap;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-
-        if(nums.length < 2){
-            return nums;
-        }
-
-        int indices[] = new int[2];
+        //{value: index}
+        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
 
         for(int i = 0; i < nums.length; i++){
 
-            for(int j = i+1; j < nums.length; j++){
+            //find the compliment
+            int comp = target - nums[i];
 
-                if(nums[i] + nums[j] == target){
-                    indices[0] = i;
-                    indices[1] = j;
-                    return indices;
-                }
+            //check if it exists in the hashmap
+            if(map.containsKey(comp)){
+                return new int[] {map.get(comp), i};
             }
+
+            //if not, add it
+            map.put(nums[i], i);
+
+
         }
 
         return nums;
