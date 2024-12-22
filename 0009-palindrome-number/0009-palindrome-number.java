@@ -1,20 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
-        //covert int to string
-        String stringX = String.format("%d", x);
-
-        //loop through it backwards and see if the character match in reverse
-        int frontIndex = 0;
-        String reversed = "";
-
-        //get the reversed string
-        for(int i = stringX.length()-1; i >=0; i--){
-            reversed = reversed + stringX.charAt(i);
-
+        if (x < 0) {
+            return false;
         }
 
-        //check fi they are equal
-        return stringX.equals(reversed);
+        long reversed = 0;
+        long temp = x;
+
+        while (temp != 0) {
+            int digit = (int) (temp % 10);
+            reversed = reversed * 10 + digit;
+            temp /= 10;
+        }
+
+        return (reversed == x);
     }
 }
