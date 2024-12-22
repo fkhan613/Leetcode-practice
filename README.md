@@ -13,4 +13,8 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fkhan613/Leetcode-practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
