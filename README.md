@@ -14,10 +14,12 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fkhan613/Leetcode-practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
