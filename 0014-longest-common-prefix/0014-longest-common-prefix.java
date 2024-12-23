@@ -12,6 +12,8 @@ class Solution {
 
             //loop through the string and keep removing characters from the current prefix till it matches or is ""
             while(!strs[i].startsWith(prefix)){
+
+                //remove a chracter from the end of the prefix
                 prefix = prefix.substring(0, prefix.length()-1);
 
                 if(prefix.equals("")) return "";
