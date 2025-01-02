@@ -32,6 +32,7 @@ class Solution {
 
             } else{
                 map.put(nums[i], 1);
+                continue;
             }
 
         }
