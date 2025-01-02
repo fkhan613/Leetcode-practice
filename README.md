@@ -9,6 +9,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fkhan613/Leetcode-practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -24,6 +25,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0088-merge-sorted-array) |
