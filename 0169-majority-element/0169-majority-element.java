@@ -24,15 +24,14 @@ class Solution {
                 incrementedOcc++;
 
                 map.put(nums[i], incrementedOcc);
-
                 
                 if(map.get(nums[i]) > currentMaxOccurences){
                     currentMaxOccurences = map.get(nums[i]);
                     currentMaxNum = nums[i];
                 }
+
             } else{
                 map.put(nums[i], 1);
-                continue;
             }
 
         }
