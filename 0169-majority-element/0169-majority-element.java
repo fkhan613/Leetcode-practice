@@ -22,20 +22,17 @@ class Solution {
             if(map.containsKey(nums[i])){
                 int incrementedOcc = map.get(nums[i]);
                 incrementedOcc++;
-
                 map.put(nums[i], incrementedOcc);
-                
-
-
+    
             } else{
                 map.put(nums[i], 1);
                 continue;
             }
 
-                if(map.get(nums[i]) > currentMaxOccurences){
-                    currentMaxOccurences = map.get(nums[i]);
-                    currentMaxNum = nums[i];
-                }
+            if(map.get(nums[i]) > currentMaxOccurences){
+                currentMaxOccurences = map.get(nums[i]);
+                currentMaxNum = nums[i];
+            }
 
         }
 
