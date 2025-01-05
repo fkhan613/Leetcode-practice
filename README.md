@@ -16,6 +16,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fkhan613/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -79,4 +81,8 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fkhan613/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
