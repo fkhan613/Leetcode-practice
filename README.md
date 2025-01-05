@@ -22,6 +22,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0001-two-sum](https://github.com/fkhan613/Leetcode-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0014-longest-common-prefix](https://github.com/fkhan613/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/fkhan613/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -68,6 +70,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
