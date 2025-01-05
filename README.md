@@ -52,6 +52,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | ------- |
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/fkhan613/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/fkhan613/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/fkhan613/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
@@ -91,4 +92,8 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/fkhan613/Leetcode-practice/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fkhan613/Leetcode-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
