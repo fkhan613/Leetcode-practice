@@ -18,8 +18,6 @@ class Solution {
 
             //if not, add it
             map.put(nums[i], i);
-
-
         }
 
         return nums;
