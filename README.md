@@ -92,9 +92,14 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/fkhan613/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/fkhan613/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fkhan613/Leetcode-practice/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/fkhan613/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
