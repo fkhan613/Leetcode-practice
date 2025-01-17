@@ -11,6 +11,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0001-two-sum](https://github.com/fkhan613/Leetcode-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/fkhan613/Leetcode-practice/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fkhan613/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/fkhan613/Leetcode-practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fkhan613/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -102,4 +104,8 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/fkhan613/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/fkhan613/Leetcode-practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
