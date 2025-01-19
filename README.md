@@ -48,6 +48,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/fkhan613/Leetcode-practice/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0125-valid-palindrome](https://github.com/fkhan613/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/fkhan613/Leetcode-practice/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
