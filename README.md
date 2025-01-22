@@ -50,6 +50,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0141-linked-list-cycle](https://github.com/fkhan613/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/fkhan613/Leetcode-practice/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -61,6 +62,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/fkhan613/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/fkhan613/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/fkhan613/Leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
