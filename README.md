@@ -19,6 +19,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/fkhan613/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/fkhan613/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/fkhan613/Leetcode-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -119,6 +120,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/fkhan613/Leetcode-practice/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/fkhan613/Leetcode-practice/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
