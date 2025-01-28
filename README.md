@@ -110,6 +110,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/fkhan613/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/fkhan613/Leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/fkhan613/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/fkhan613/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/fkhan613/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
