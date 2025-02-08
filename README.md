@@ -133,5 +133,6 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/fkhan613/Leetcode-practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/fkhan613/Leetcode-practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
