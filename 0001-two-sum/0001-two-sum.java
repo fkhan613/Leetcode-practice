@@ -3,23 +3,23 @@ import java.util.HashMap;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-        //{value: index}
-        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+        //{value:index}
+        HashMap<Integer, Integer> compliments = new HashMap<Integer, Integer>();
 
         for(int i = 0; i < nums.length; i++){
 
-            //find the compliment
-            int comp = target - nums[i];
+            int compliment = target - nums[i];
 
-            //check if it exists in the hashmap
-            if(map.containsKey(comp)){
-                return new int[] {map.get(comp), i};
+            //check if the compliment is in our hashmap
+            if(compliments.containsKey(compliment)){
+                return new int[] {i, compliments.get(compliment)};
+            } else{
+                compliments.put(nums[i], i);
             }
 
-            //if not, add it
-            map.put(nums[i], i);
         }
 
-        return nums;
+        return new int[] {};
+
     }
 }
