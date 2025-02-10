@@ -19,6 +19,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/fkhan613/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/fkhan613/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/fkhan613/Leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
@@ -33,6 +34,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/fkhan613/Leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/fkhan613/Leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -43,6 +45,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/fkhan613/Leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
@@ -88,6 +91,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,9 +149,14 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/fkhan613/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/fkhan613/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
