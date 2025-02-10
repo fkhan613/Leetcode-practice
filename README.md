@@ -29,6 +29,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fkhan613/Leetcode-practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/fkhan613/Leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/fkhan613/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/fkhan613/Leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
@@ -66,6 +68,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/fkhan613/Leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/fkhan613/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/fkhan613/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/fkhan613/Leetcode-practice/tree/master/0020-valid-parentheses) |
