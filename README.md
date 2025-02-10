@@ -142,4 +142,12 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/fkhan613/Leetcode-practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/fkhan613/Leetcode-practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/fkhan613/Leetcode-practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/fkhan613/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/fkhan613/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
