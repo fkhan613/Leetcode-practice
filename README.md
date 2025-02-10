@@ -22,6 +22,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0334-increasing-triplet-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/fkhan613/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/fkhan613/Leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/fkhan613/Leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/fkhan613/Leetcode-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/fkhan613/Leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/fkhan613/Leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
