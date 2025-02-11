@@ -4,20 +4,20 @@ class Solution {
     public void rotate(int[] nums, int k) {
 
         Deque<Integer> deque = new ArrayDeque<>();
-        int temp;
+
+        //add the elements to the arraydque first
+        for(int n : nums){
+            deque.addLast(n);
+        }
+
+        //move the last k elements to the front
+        for(int i = 0; i < k; i++){
+            int popped = deque.removeLast();
+            deque.addFirst(popped);
+        } 
 
         for(int i = 0; i < nums.length; i++){
-            deque.add(nums[i]);
-        }
-        
-        for(int j = 1; j <= k; j++){
-            temp = deque.removeLast();
-            deque.addFirst(temp);
-        }
-
-        int index = 0;
-        for(int val : deque){
-            nums[index++] = val;
+            nums[i] = deque.removeFirst();
         }
     }
 }
