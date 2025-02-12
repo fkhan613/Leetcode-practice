@@ -2,7 +2,7 @@ class Solution {
     public String reverseWords(String s) {
 
         String[] words = s.trim().split(" ");
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
         System.out.println(Arrays.toString(words));
 
@@ -10,10 +10,10 @@ class Solution {
 
             //check if the current "word" is a space
             if(!words[i].equals("")){
-                result += words[i] + " ";
+                result.append(words[i] + " ");
             }
         }
 
-        return result.trim();
+        return result.toString().trim();
     }
 }
