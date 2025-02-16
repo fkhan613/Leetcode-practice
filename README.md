@@ -37,6 +37,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/fkhan613/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/fkhan613/Leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
@@ -79,6 +80,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0058-length-of-last-word](https://github.com/fkhan613/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/fkhan613/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/fkhan613/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
@@ -98,6 +100,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fkhan613/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/fkhan613/Leetcode-practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/fkhan613/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
