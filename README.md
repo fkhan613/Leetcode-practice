@@ -39,6 +39,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0219-contains-duplicate-ii](https://github.com/fkhan613/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/fkhan613/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fkhan613/Leetcode-practice/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/fkhan613/Leetcode-practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/fkhan613/Leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/fkhan613/Leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -81,6 +82,7 @@ This repository automatically gets updated when I run/submit code in LeetCode.
 | [0125-valid-palindrome](https://github.com/fkhan613/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/fkhan613/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/fkhan613/Leetcode-practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/fkhan613/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/fkhan613/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/fkhan613/Leetcode-practice/tree/master/0392-is-subsequence) |
