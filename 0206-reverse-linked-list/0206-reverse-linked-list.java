@@ -13,13 +13,19 @@ class Solution {
 
         ListNode prev = null;
         ListNode curr = head;
-        ListNode next;
+        ListNode next = head;
 
         while(curr != null){
 
+            //store the next node;
             next = curr.next;
+
+            //make current node next equal previous node
             curr.next = prev;
+
+            //make prev node the current node for next iteration
             prev = curr;
+
             curr = next;
         }
 
