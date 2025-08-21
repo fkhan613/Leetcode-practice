@@ -5,26 +5,22 @@ class Solution {
             return false;
         }
 
-        String newS = s.replaceAll("[\\P{Alnum}]", "").toLowerCase();
+        //this will replace all alphanumeric letters
+        String newString = s.replaceAll("[^A-Za-z0-9]", "").toLowerCase();
+        
+        //use double pointer to check if the string is a palindrome
+        int first = 0;
+        int last = newString.length()-1;
 
-        if(newS.equals("")){
-            return true;
-        }
+        while (first < last){
 
-
-        int i = 0;
-        int j = newS.length()-1;
-
-        while(i < newS.length() && i !=j){
-            if(newS.charAt(i) != newS.charAt(j)){
+            if(newString.charAt(first) != newString.charAt(last)){
                 return false;
             }
 
-            i++;
-            j--;
+            first++; last--;
         }
 
         return true;
-        
     }
 }
